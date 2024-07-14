@@ -1,0 +1,17 @@
+Q.1 - Write a Program Find The Given Number Is Odd Or Even Using Ternory Operator In C language
+
+Q.2 - Write a Program Find The Given Number Is Positive , Negative or Nutral Using Ternory Operator In C language
+
+Q.3 - Write a Program Find The Maximum Value From 2 Variable Using Ternory Operator In C language
+
+Q.4 - Write a Program Find The Maximum Value From 3 Variable Using Ternory Operator In C language
+
+Q.5 - Write a Program Find The Maximum Value From 4 Variable Using Ternory Operator In C language
+
+Q.6 - Write a Program Find The Maximum Value From 5 Variable Using Ternory Operator In C language
+
+Q.7 - Write a Program Find The Maximum Value From 6 Variable Using Ternory Operator In C language
+
+Q.8 - Write a Program Find The Maximum Value From 7 Variable Using Ternory Operator In C language
+
+Q.9 - Write a Program Find The Maximum Value From 8 Variable Using Ternory Operator In C language

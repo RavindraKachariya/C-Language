@@ -1,0 +1,9 @@
+Q.1 - Write a Program Unary Statement Pre And Post Example In C language
+
+Q.2 - Write a Program Billing System Using Given Contion In C language 
+
+	- User Input Total 3 Product Price
+	- Display Total Price 
+	- Give Discount With User Input
+	- Add Additional charges 18%
+	

@@ -1,0 +1,11 @@
+Q.1 - Write a Program Make A Simple Calculator Using Switch Case In C Language
+
+Q.2 - Write a Program Make Simple Month Detaille Given System Using Switch Case In C Language
+
+	-Example
+		- Input  : Enter The Month (1-12) : 1
+
+		- Output : Month Name : Jan
+			   Total Day In Month : 31 Days
+
+Q.3 - Write a Program Make A Simple Menu Card Using Switch Case In C Language

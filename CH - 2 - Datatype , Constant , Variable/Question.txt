@@ -1,0 +1,14 @@
+Q.1 - Write a Program 2 Variable +,-,*,/ and & In C Language
+
+
+Q.2 - Write a Program Multiplication Table In C Language
+
+
+Q.3 - Write a Program Create Variable And Find Below Question In C Language
+
+	- Area Of Square       =  (l*l)
+	- Area Of Rectangle    =  (l*b)
+	- Area Of Circle       =  (pi*r*r)
+	- Perimeter Of Circle  =  (2*pi*r)
+	- Area Of Triangle     =  (0.5*h*b)
+	- Simple Interest      =  ((p*r*h)/100)

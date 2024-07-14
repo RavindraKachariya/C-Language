@@ -1,0 +1,12 @@
+Q.1 - Write a Program Find The Maximum Value From 3 Variable Using If , Else and Else If  In C Language
+
+Q.2 - Write a Program Find The Maximum Value From 4 Variable Using If , Else and Else If  In C Language
+
+Q.3 - Write a Program Find The Maximum Value From 5 Variable Using If , Else and Else If  In C Language
+
+Q.4 - Write a Program Find The Maximum Value From 6 Variable Using If , Else and Else If  In C Language
+
+Q.5 - Write a Program Find The Maximum Value From 7 Variable Using If , Else and Else If  In C Language
+
+Q.6 - Write a Program Find The Maximum Value From 8 Variable Using If , Else and Else If  In C Language
+

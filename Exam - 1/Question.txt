@@ -1,0 +1,9 @@
+Q.1 - Write a C Program To Convert Temperature From Degrees Celsius To Fahrenheit
+
+Q.2 - Write a C Program Using The Switch Statement Display Monday To Sunday
+
+Q.3 - Write a C Program To Check Whether A Year Is A Leap Year or Not
+
+Q.4 - Write a C Program To Read Roll No. And Marks Of Three Subjects. Calculate The Total, Percentage, And give The Grade Using The Nested If Else
+
+Q.5 - Write a C Program To Find The Sum Of All Even Numbers Between 1 To N Using The do-While Loop.

@@ -1,0 +1,5 @@
+Q.1 - Write a Program And Make A Simple License Apply Condition In C language
+
+Q.2 - Write a Program Find The Maximum Value From 2 Variable In C Language
+
+Q.3 - Write a Program Find The Given Number Is Positive Or Negative From User Input In C Language
