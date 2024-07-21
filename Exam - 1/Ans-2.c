@@ -17,35 +17,35 @@ int main()
 
     switch (a)
     {
-    case 1:
-        printf("This Day Is : Mon\n");
-        break;
+         case 1:
+            printf("This Day Is : Mon\n");
+            break;
 
-    case 2:
-        printf("This Day Is : TUE\n");
-        break;
+        case 2:
+            printf("This Day Is : TUE\n");
+            break;
 
-    case 3:
-        printf("This Day Is : WED\n");
-        break;
+        case 3:
+            printf("This Day Is : WED\n");
+            break;
 
-    case 4:
-        printf("This Day Is : THU\n");
-        break;
+        case 4:
+            printf("This Day Is : THU\n");
+            break;
 
-    case 5:
-        printf("This Day Is : FRI\n");
-        break;
+        case 5:
+            printf("This Day Is : FRI\n");
+            break;
 
-    case 6:
-        printf("This Day Is : SAT\n");
-        break;
+        case 6:
+            printf("This Day Is : SAT\n");
+            break;
 
-    case 7:
-        printf("This Day Is : SUN\n");
-        break;
+        case 7:
+            printf("This Day Is : SUN\n");
+            break;
     
-    default:
-        printf("Invalid INput....!!\n");
+        default:
+            printf("Invalid INput....!!\n");
     }
 }
