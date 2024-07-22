@@ -121,10 +121,7 @@ main()
 		default:
 			P("\nNot Avaliable");
 
-
-
 	 }
 	getch();
-
 
 }
