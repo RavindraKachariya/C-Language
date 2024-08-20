@@ -1,0 +1,39 @@
+Q.1 Write a Program to find the cube of a given number using UDF.For example,
+Input:
+Enter any number: 5
+
+Output:
+Cube is: 125
+
+Q.2 Write a Program to check if a given number is divisible by both 3 & 5 or not using UDF.For example,
+Input:
+Enter any number: 15
+
+Output:
+The given number is divisible by both 3 & 5.
+
+------------------------------------------
+
+For example,
+Input:
+Enter any number: 10
+
+Output:
+The given number is not divisible by both 3 & 5.
+
+Q.3 Write a Program to find the sum of all 1D Array elements by passing an array as an argument using UDF. And Find Average 
+For example,
+Input:
+Enter array size: 5
+Enter array elements:
+a[0] = 6
+a[1] = 4
+a[2] = 1
+a[3] = 5
+a[4] = 2
+
+Output:
+The sum of an Array     : 18
+The sum of an Average   : 3.6
+
+Q. 4 Write a Program to create calculator using switch case, udf and loop. Add an infinite calculator process by do while loop until user do not enters 0 to terminate.

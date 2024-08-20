@@ -1,0 +1,15 @@
+Q.1 Write a Program in UDF in C language
+
+  - main()
+  - a[]
+  - Input
+  --- do
+  | - 1 = Print
+  | - 2 = Get Sum
+  | - 3 = Get Avg
+  | - 4 = Sort Ascending
+  | - 5 = Sort Descending
+  | - 6 = Find Max
+  | - 7 = Find min
+  | - 0 = Exit
+  --- while();  
