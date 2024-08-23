@@ -8,7 +8,7 @@ int main()
 
     for(int i=1 ; i<=n ;i++)
     {
-        if(i%8==0)
+        if(i%8==1)
         {
             printf("%d ",i);
         }
